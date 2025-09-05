@@ -1,7 +1,7 @@
 Python Code for Towards Data Science Article:
 
 
-** From Seasonality to Sustainability: Forecasting Climate for Smarter Data Centers. **
+**From Seasonality to Sustainability: Forecasting Climate for Smarter Data Centers.**
 
 
 Time Series Forecasting Methods Included: AutoARIMA,Prophet, NeuralProphet, Mixture of Experts
